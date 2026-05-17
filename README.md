@@ -130,7 +130,6 @@ Built an interactive business intelligence dashboard in Tableau to visualize cus
 | Data Cleaning | Pandas, NumPy |
 | Database | MySQL |
 | Visualization | Tableau |
-| Development Environment | Jupyter Notebook |
 
 ---
 
